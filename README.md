@@ -4,5 +4,9 @@ Peshkae/Peshkae is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi! This is my Github Page!
-I should put more stuff on this page, but its all right, I have to make those things first.
+## Hey, I'm Isaac!
+
+I'm a front-end developer and Computer Science student with a passion for building web applications and exploring diverse programming languages.
+I specialize in React.js development and enjoy working with modern CSS frameworks like Bootstrap and TailwindCSS.
+
+Check out my [website](https://impascoe.github.io/)!
